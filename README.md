@@ -1,4 +1,4 @@
-# Autopilot [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/kanishksh4rma/Self-Driving-Car/blob/master/LICENSE.txt)
+#  Self-Driving-Car 
 
 This code helps in getting the steering angle of self driving car. The inspiraion is taken from [Udacity Self driving car](https://github.com/udacity/CarND-Behavioral-Cloning-P3) module as well [End to End Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/) module from NVIDIA
 
