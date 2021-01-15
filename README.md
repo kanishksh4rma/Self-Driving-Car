@@ -1,4 +1,4 @@
-# Autopilot [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Autopilot/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+# Autopilot [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/kanishksh4rma/Self-Driving-Car/blob/master/LICENSE.txt)
 
 This code helps in getting the steering angle of self driving car. The inspiraion is taken from [Udacity Self driving car](https://github.com/udacity/CarND-Behavioral-Cloning-P3) module as well [End to End Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/) module from NVIDIA
 
@@ -6,7 +6,7 @@ The End to End Learning for Self-Driving Cars research paper can be found at (ht
 This repository uses convnets to predict steering angle according to the road. 
 
 1) Autopilot Version 1
-2) [Autopilot Version 2](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)
+2) Autopilot Version 2
 
 ### Sourcerer
 [![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Autopilot/links/7)
@@ -57,13 +57,11 @@ If you face any problem, kindly raise an issue
 2) Now you need to have the data, run `Train_pilot.py` which will load data from pickle. After this, the training process begins.
 3) For testing it on the video, run `AutopilotApp_V2.py`
 
-<img src="https://github.com/akshaybahadur21/Autopilot/blob/master/v2.gif">
+<img src="https://github.com/kanishksh4rma/Self-Driving-Car/blob/master/v2.gif">
 
 ### References:
  
  - Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba. [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
- - [Behavioral Cloning Project](https://github.com/udacity/CarND-Behavioral-Cloning-P3) 
- - This implementation also took a lot of inspiration from the Sully Chen github repository: https://github.com/SullyChen/Autopilot-TensorFlow  
 
 
 
